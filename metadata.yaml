@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43561'
     url: http://www.gutenberg.org/2009/agents/43561
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45996#Der-Aether-gegen-den-Schmerz
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
 identifiers:
